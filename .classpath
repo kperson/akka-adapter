@@ -1,0 +1,27 @@
+<classpath>
+  <classpathentry output="target/scala-2.10/classes" kind="src" path="src/main/scala"/>
+  <classpathentry output="target/scala-2.10/classes" kind="src" path="src/main/java"/>
+  <classpathentry output="target/scala-2.10/test-classes" kind="src" path="src/test/scala"/>
+  <classpathentry output="target/scala-2.10/test-classes" kind="src" path="src/test/java"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/com.novus/salat-util_2.10/jars/salat-util_2.10-1.9.9.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.2.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.scala-lang/scalap/jars/scalap-2.10.4.jar"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_COMPILER_CONTAINER"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/com.novus/salat-core_2.10/jars/salat-core_2.10-1.9.9.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.mongodb/casbah-core_2.10/jars/casbah-core_2.10-2.7.1.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.mongodb/casbah-commons_2.10/jars/casbah-commons_2.10-2.7.1.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.0.0.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.3.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.2.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-2.12.1.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.mongodb/casbah-query_2.10/jars/casbah-query_2.10-2.7.1.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.2.9.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.json4s/json4s-core_2.10/jars/json4s-core_2.10-3.2.9.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/org.json4s/json4s-ast_2.10/jars/json4s-ast_2.10-3.2.9.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.6.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.5.jar"/>
+  <classpathentry kind="lib" path="/Users/keltonperson/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,8 @@
+.idea
+target/
+.DS_Store
+.project
+application.conf
+.cache
+bin/
+App.scala
