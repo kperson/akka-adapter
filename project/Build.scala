@@ -9,7 +9,7 @@ object KayBuild extends Build {
     settings = Defaults.defaultSettings ++ Seq(
       organization := "com.kelt",
       name := "akka-adapter",
-      version := "0.1.0",
+      version := "0.1.1",
       scalaVersion := "2.10.3",
       resolvers += Classpaths.typesafeReleases,
       libraryDependencies ++= Seq (
